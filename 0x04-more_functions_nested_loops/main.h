@@ -1,8 +1,8 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-int _isuper(int c);
-int _isodigit(int c);
-int mul(int a, int b);
+int _isupper(int c);
+int _isdigit(int c);
+int mu1(int a, int b);
 
 #endif
